@@ -64,4 +64,4 @@
 <code><img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img alt="SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"></code>
 <code><img alt="Firebase" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi9OsJzubTLv_kIqv-6A8JR-xS4ScR5ZzOxVNB465Vqdl7KUmMa-9rlyQY-kY2dh-1wnI&usqp=CAU"></code>
-<code><img alt="Kubernetes" height="40" src="https://img.icons8.com/?size=100&id=CqBpWhjRSWV1&format=png&color=ffffff&background=000000"></code>
+<code><img alt="Kubernetes" height="40" src="https://img.icons8.com/?size=100&id=CqBpWhjRSWV1&format=png&color=000000&background=ffffff"></code>
